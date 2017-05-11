@@ -1,0 +1,7 @@
+name: CommandBlockPlus
+author: YellowPhoenix18
+version: 1.0
+
+main: de.yellowphoenix18.commandblockplus.CommandBlockPlus
+
+commands:
